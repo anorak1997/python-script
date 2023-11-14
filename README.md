@@ -1,43 +1,38 @@
-# Welcome to My GitHub Profile! 👋
+# Email Retrieval and Analysis
 
-Hello, I'm Siddhartha Dubey, a passionate Robotics Software Engineer with a keen interest in C++, Rust. 
+This Python script retrieves emails received today and saves relevant information to an ODS file. It can be useful for tasks like analyzing job-related emails.
 
-## About Me
+## Prerequisites
 
-- 🌐 Visit my portfolio: [Your Portfolio URL]
-- 📧 Reach me via email: siddharthadubey.1997@gmail.com
+- Python 3
+- `openpyxl` library for working with Excel files
+- An email account with IMAP access enabled
 
-## Projects
+## Setup
 
-### Project 1: [Project Name 1]
+1. **Clone the repository:**
 
-- Description: Brief description of the project.
-- GitHub Repository: [Link to the Repository]
-- Demo: [Link to Demo if applicable]
+    ```bash
+    git clone https://github.com/your-username/email-retrieval.git
+    ```
 
-### Project 2: [Project Name 2]
+2. **Install dependencies:**
 
-- Description: Brief description of the project.
-- GitHub Repository: [Link to the Repository]
-- Demo: [Link to Demo if applicable]
+    ```bash
+    pip install openpyxl
+    ```
 
-## Skills
+3. **Modify the `latest_email.py` file with your email address and password:**
 
-- Programming Languages: [List of Languages]
-- Frameworks: [List of Frameworks]
-- Tools: [List of Tools]
-- ...
+    ```python
+    # Input your email address and password
+    email_address = "your_email@gmail.com"
+    password = "your_password"
+    ```
 
-## Connect with Me
+## Usage
 
-- LinkedIn: [[Siddhartha Dubey]](https://www.linkedin.com/in/siddharthadubey1997/)
+Run the script:
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=anorak1997&show_icons=true&theme=radical)
-
-
-
-Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas!
-
-Happy coding! 🚀
+```bash
+python latest_email.py
