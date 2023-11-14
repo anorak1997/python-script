@@ -36,10 +36,6 @@ Hello, I'm [Your Name], a passionate [Your Occupation/Title] with a keen interes
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=anorak1997&show_icons=true&theme=radical)
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=anorak1997&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas!
