@@ -1,11 +1,11 @@
 # Welcome to My GitHub Profile! 👋
 
-Hello, I'm [Your Name], a passionate [Your Occupation/Title] with a keen interest in [Your Interests/Hobbies]. 
+Hello, I'm Siddhartha Dubey, a passionate Robotics Software Engineer with a keen interest in C++, Rust. 
 
 ## About Me
 
 - 🌐 Visit my portfolio: [Your Portfolio URL]
-- 📧 Reach me via email: [Your Email Address]
+- 📧 Reach me via email: siddharthadubey.1997@gmail.com
 
 ## Projects
 
